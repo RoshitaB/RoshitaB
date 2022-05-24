@@ -43,8 +43,30 @@ Here are some ideas to get you started:
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/RoshitaB/github-readme-stats"><img alt="Roshita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RoshitaB&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/RoshitaB/github-readme-stats"><img alt="Roshita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshitaB&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+
+<div>
+    <p align="center">
+        <div align="center">
+            <table>
+                <tr>
+                    <td>
+                        <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=RoshitaB&&show_icons=true&&theme=algolia"  alt="GitHub Stats" />
+                    </td>
+                    <td>
+                        <img width=400 src="https://github-readme-stats.vercel.app/api?username=RoshitaB&&show_icons=true&theme=algolia">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img width=400 height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshitaB&layout=compact&hide_border=false&&show_icons=true&&theme=algolia">
+                    </td>
+                </tr>
+            </table>
+            <br>
+            <img width="800" height="auto" src="https://activity-graph.herokuapp.com/graph?username=RoshitaB&bg_color=050f2c&color=fff&line=0194dd&point=5194f0&area=true" alt="Daily Contribution Graph" />
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoshitaB&theme=nord_bright"  width="800" height="auto"  alt="Monthly Contribution Graph" >
+        </div>
+    </p>
+</div>
+
 
