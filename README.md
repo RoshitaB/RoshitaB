@@ -1,15 +1,18 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RoshitaB&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh251002" /> </p>
 
-<!--
-**RoshitaB/RoshitaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RoshitaB
+" alt="RoshitaB" /></a> </p>
+
+<!-- **RoshitaB/RoshitaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web-development Projects in Django
-- 🌱 I’m currently learning Machine Learning and Data Science
-- 👯 I’m looking to collaborate on Machine Learning/Web Projects
+- 🔭 I’m currently working on Web-Development Projects in Django and Computer Vision Projects
+- 🌱 I’m currently learning Data Structures & Algorithms and ML
+- 👯 I’m looking to collaborate on any projects that involve Machine Learning and/or Data Science.
 - 😄 Pronouns: she/her
--->
+
 
 ## 🚀 Languages and Tools:
 <br>
