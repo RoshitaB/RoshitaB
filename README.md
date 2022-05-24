@@ -5,11 +5,9 @@
 
 <!-- **RoshitaB/RoshitaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Web-Development Projects in Django and Computer Vision Projects
-- 🌱 I’m currently learning Data Structures & Algorithms and ML
-- 👯 I’m looking to collaborate on any projects that involve Machine Learning and/or Data Science.
+- 🔭 I’m currently working on projects related to **Web-Development in Django** and **Computer Vision** 
+- 🌱 I’m currently learning **Data Structures & Algorithms** and **ML**
+- 👯 I’m looking to collaborate on any projects that involve **Machine Learning** and/or **Data Science.**
 - 😄 Pronouns: she/her
 
 
