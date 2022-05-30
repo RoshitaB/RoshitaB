@@ -1,6 +1,4 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RoshitaB&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh251002" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RoshitaB" alt="RoshitaB" /></a> </p>
 
 <!-- **RoshitaB/RoshitaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
