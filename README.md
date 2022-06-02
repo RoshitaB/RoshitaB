@@ -1,10 +1,13 @@
-### Hi there 👋
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RoshitaB" alt="RoshitaB" /></a> </p>
-
 <!-- **RoshitaB/RoshitaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<h1 align="center">Hi , I'm Roshita Bhonsle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+DS+Student;Machine+Learning+Enthusiast;Data+Science+Enthusiast;Full+Stack+Django+Developer;Passionate%20about%20all%20things%20Code!&center=true&width=500&height=50"></a>
+ <p align = "center">
+    
+- 💼 I’m pursuing **B.Tech** in **Artificial Intelligence & Data Science**.
 - 🔭 I’m currently working on projects related to **Web-Development in Django** and **Computer Vision** 
-- 🌱 I’m currently learning **Data Structures & Algorithms** and **ML**
+- 🌱 I’m currently learning **Data Structures** and **Machine Learning**
 - 👯 I’m looking to collaborate on any projects that involve **Machine Learning** and/or **Data Science.**
 - 😄 Pronouns: she/her
 
@@ -32,31 +35,4 @@
 
 
 ## 📊 My Github Stats
-
-
-<div>
-    <p align="center">
-        <div align="center">
-            <table>
-                <tr>
-                    <td>
-                        <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=RoshitaB&&show_icons=true&&theme=algolia"  alt="GitHub Stats" />
-                    </td>
-                    <td>
-                        <img width=400 src="https://github-readme-stats.vercel.app/api?username=RoshitaB&&show_icons=true&theme=algolia">
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img width=400 height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshitaB&layout=compact&hide_border=false&&show_icons=true&&theme=algolia">
-                    </td>
-                </tr>
-            </table>
-            <br>
-            <img width="800" height="auto" src="https://activity-graph.herokuapp.com/graph?username=RoshitaB&bg_color=050f2c&color=fff&line=0194dd&point=5194f0&area=true" alt="Daily Contribution Graph" />
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoshitaB&theme=nord_bright"  width="800" height="auto"  alt="Monthly Contribution Graph" >
-        </div>
-    </p>
-</div>
-
 
