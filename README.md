@@ -6,8 +6,8 @@
  <p align = "center">
     
 - 💼 I’m pursuing **B.Tech** in **Artificial Intelligence & Data Science**.
-- 🔭 I’m currently working on projects related to **Web-Development in Django** and **Computer Vision** 
-- 🌱 I’m currently learning **MERN Stack**, **DSA** and **Machine Learning**
+- 🔭 I’m currently working on projects related to **Time Series**, **Natural Language Processing** and **Deep Learning** 
+- 🌱 I’m currently learning **DSA**, **Machine Learning**
 - 👯 I’m looking to collaborate on any projects that involve **Machine Learning** and/or **Data Science.**
 - 😄 Pronouns: she/her
 
