@@ -29,6 +29,12 @@
     <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" width="45" height="45"/> </a> 
     <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="45" height="45"/> </a> 
     <a href="" target="_blank"><img src="https://img.icons8.com/color/50/000000/django.png" width="45" height="45"/> </a> 
+    <a href="" target="_blank"><img src="https://img.icons8.com/color/344/tableau-software.png" width="45" height="45"/> </a> 
+    <a href="" target="_blank"><img src="https://img.icons8.com/color/344/opencv.png" width="45" height="45"/> </a> 
+    <a href="" target="_blank"><img src="https://img.icons8.com/color/344/pandas.png" width="45" height="45"/> </a> 
+    <a href="" target="_blank"><img src="https://img.icons8.com/color/344/numpy.png" width="45" height="45"/> </a> 
+    <a href="" target="_blank"><img src="https://img.icons8.com/color/2x/android-studio--v3.png" width="45" height="45"/> </a> 
+    <a href="" target="_blank"><img src="https://img.icons8.com/color/452/tailwindcss.png" width="45" height="45"/> </a> 
 
 </p>
 <br/>
