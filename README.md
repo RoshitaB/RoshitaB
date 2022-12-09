@@ -1,6 +1,6 @@
 <!-- **RoshitaB/RoshitaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="center">Hi , I'm Roshita Bhonsle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Roshita! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate%20about%20all%20things%20Code!;Machine+Learning+Enthusiast;Data+Science+Enthusiast;Full+Stack+Django+Developer&center=true&width=500&height=50"></a>
  <p align = "center">
