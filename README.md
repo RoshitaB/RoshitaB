@@ -5,10 +5,8 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate%20about%20all%20things%20Code!;Machine+Learning+Enthusiast;Data+Science+Enthusiast;Full+Stack+Django+Developer&center=true&width=500&height=50"></a>
  <p align = "center">
     
-- 💼 I’m pursuing **B.Tech** in **Artificial Intelligence & Data Science**.
 - 🔭 I’m currently working on projects related to **Time Series**, **Natural Language Processing** and **Deep Learning** 
-- 🌱 I’m currently learning **DSA**, **Machine Learning**
-- 👯 I’m looking to collaborate on any projects that involve **Machine Learning** and/or **Data Science.**
+- 👯 I’m looking to collaborate on any projects that involve **Multimodal AI** and/or **Explainability**
 - 😄 Pronouns: she/her
 
 
